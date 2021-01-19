@@ -4,6 +4,6 @@
 
 --Constructed using bootstrap methods and custom css added here and there.
 
-![Aboutme](assets/AboutmeSS.png)
-![Contact](assets/ContactSS.png)
-![Portfolio](assets/PortfolioSS.png)
+![Aboutme](assets/AboutmeSS.png?raw=true)
+![Contact](assets/ContactSS.png?raw=true)
+![Portfolio](assets/PortfolioSS.png?raw=true)
